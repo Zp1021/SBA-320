@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-        <div class='Facts'>
+        <div className='Facts'>
             <h1>
             Random Pokemon Generator
             </h1>

@@ -23,7 +23,7 @@ body {
 }
 /* Increased button size and font */
 #nextBtn {
-    width: 142.25vh;
+    width: 150vh;
     height: 5vh;
     font-weight: 900;
     font-size: larger;
