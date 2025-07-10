@@ -7,13 +7,21 @@ import Footer from "./Footer"
 
 export default function MainPage() {
 
-    async function getPokeData() {
-        try {
-            let url = "https://pokeapi.co/api/v2/pokemon/?limit=151"
-        } catch (error) {
-
+    useEffect(() => {
+        async function getCharData() {
+            try {
+                let url = ("https://rickandmortyapi.com/api/character");
+                const response = await fetch(url)
+                const data = await response.json()
+                const chars = data.results
+                console.log(chars)
+    
+            } catch (error) {
+                console.log(error)
+            }
         }
-    }
+        getCharData()
+    }, [])
 
     return (
         <div>

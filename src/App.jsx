@@ -1,7 +1,7 @@
 import './App.css'
 import MainPage from './components/MainPage'
 import { Routes, Route, Navigate } from 'react-router-dom'
-// import PokemonPage from './pages/PokemonPage'
+// import CharPage from './pages/PokemonPage'
 
 function App() {
 

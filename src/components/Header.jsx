@@ -2,9 +2,9 @@ export default function Header() {
     return (
         <div className='Facts'>
             <h1>
-            Random Pokemon Generator
+            Rick & Morty Generator
             </h1>
-            Click the button to generate a random pokemon
+            Click the button to generate a random Rick & Morty character
         </div>
     )
 }

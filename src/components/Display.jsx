@@ -4,7 +4,7 @@ export default function Display() {
     return (
         <div>
             <button id="nextBtn">
-                Who's that Pokemon!!!
+                It's time to get Schwifty!!!
             </button>
         </div>
     )
