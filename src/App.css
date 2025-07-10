@@ -1,0 +1,30 @@
+/* Brown background for the rest of the page */
+body {
+    margin: 15px 300px;
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px black;
+    background-color: brown;
+}
+
+/* Applies beige color to the background of the box*/
+.Facts{
+    background-color: beige;
+    border: solid 2px black;
+    padding-bottom: 3%;
+    height: 70vh;
+    font-weight: 900;
+    font-size: 5vh;
+}
+
+/* Increasing the font size for easier visibility  */
+#disclaimer{
+    font-size: 2vh;
+    background-color: beige;
+}
+/* Increased button size and font */
+#nextBtn {
+    width: 142.25vh;
+    height: 5vh;
+    font-weight: 900;
+    font-size: larger;
+}
