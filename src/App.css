@@ -19,7 +19,7 @@ body {
 /* Increasing the font size for easier visibility  */
 #disclaimer{
     font-size: 2vh;
-    background-color: beige;
+    background-color: gold;
 }
 /* Increased button size and font */
 #nextBtn {
@@ -29,6 +29,7 @@ body {
     font-size: larger;
 }
 
+/* Font size and margin space for character names */
 #charName {
     margin: 5vh;
     font-size: 5vh;
