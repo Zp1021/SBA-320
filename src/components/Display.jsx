@@ -20,7 +20,6 @@ export default function Display() {
             const randChar = charList[random(charList.length)]
             // Randomizes the character name by index according to the length the array
             const charName = randChar.name
-            console.log(randChar.id)
             
             // Returns the randomized name
             return charName
