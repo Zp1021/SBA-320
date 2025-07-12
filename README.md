@@ -13,7 +13,7 @@ This entire project was made using VS code on windows 10 and will be deployed us
 
 API Link: https://rickandmortyapi.com/documentation/#introduction
 
-Demo Link:
+Demo Link: https://sba320reactwebapp.netlify.app/
 
 3. Usage instructions:
 
