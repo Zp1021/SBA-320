@@ -22,3 +22,7 @@ Using the app is relatively simple, there is a button that the user can click to
 4. Ideas yet to be implemented:
 
 An evolution for this project in particular would be when the character name gets clicked it would bring the user to the secondary page displaying information of the character they clicked on. Another addition would be to increase the amount of characters that the button is able to go through.
+
+5. Unresolved Issues:
+
+The styling was made with an ultra widescreen monitor in mind which leads to the site looking strange on some devices as a result. A temporary work around would be to zoom out the page slightly so that the content fits the screen however future development will need to happen in order to fully fix this.
