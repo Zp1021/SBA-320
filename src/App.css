@@ -39,7 +39,7 @@ body{
 }
 
 #backBtn {
-    width: 60vh;
+    width: 80vh;
     height: 5vh;
     font-weight: 900;
     font-size: larger;
@@ -47,7 +47,7 @@ body{
 }
 
 .imgDisplay{
-    margin: 1vh 75vh;
+    margin: 1vh 80vh;
     text-align: center;
     box-shadow: 10px 10px 10px 10px black;
     background-color: skyblue;
