@@ -25,4 +25,4 @@ An evolution for this project in particular would be when the character name get
 
 5. Unresolved Issues:
 
-The styling was made with an ultra widescreen monitor in mind which leads to the site looking strange on some devices as a result. A temporary work around would be to zoom out the page slightly so that the content fits the screen however future development will need to happen in order to fully fix this.
+The styling was made with the web app fullscreened on an ultra widescreen monitor. This leads to the site looking strange on some devices as a result. A temporary work around would be to keep the webapp fullscreened but to zoom out the page slightly, so that the content fits the screen however future development will need to happen in order to fully fix this.
