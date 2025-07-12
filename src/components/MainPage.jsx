@@ -6,7 +6,7 @@ import Footer from "./Footer"
 
 export default function MainPage() {
     return (
-        <div>
+        <div className="pageOne">
             <Header />
             <Display />
             <Footer />

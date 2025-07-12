@@ -1,5 +1,8 @@
 /* Brown background for the rest of the page */
-body {
+body{
+    background-color: skyblue;
+}
+.pageOne {
     margin: 15px 300px;
     text-align: center;
     box-shadow: 10px 10px 10px 10px black;
@@ -33,4 +36,19 @@ body {
 #charName {
     margin: 5vh;
     font-size: 5vh;
+}
+
+#backBtn {
+    width: 60vh;
+    height: 5vh;
+    font-weight: 900;
+    font-size: larger;
+    
+}
+
+.imgDisplay{
+    margin: 1vh 75vh;
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px black;
+    background-color: skyblue;
 }
