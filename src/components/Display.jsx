@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 export default function Display() {
     function random(length) {
@@ -35,10 +36,11 @@ export default function Display() {
 
     return (
         <div>
-            
+            <Link to={`/character/:id`}>
             <p id="charName">
                 {name}
             </p>
+            </Link>
             <button onClick={handleClick} id="nextBtn">
                 It's time to get Schwifty!!!
             </button>
